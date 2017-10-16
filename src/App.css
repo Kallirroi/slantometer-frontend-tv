@@ -16,27 +16,17 @@
 }
 
 
-.logo > img {
+.title {
   display: block;
   position: fixed;
   height: auto;
-  top: 3vh;
-  left: 49vw;
-  margin: 0 auto;
-  /*display: none;*/
-  /*border: 1px solid;*/
-}
-
-.logo {
-  display: block;
-  position: fixed;
-  height: auto;
-  top: 9vh;
-  left: 40vw;
+  text-align: center;
+  top: 5vh;
+  /*left: 43.5vw;*/
   margin: 0 auto;
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 24px;
+  /*font-family: 'Source Sans Pro';*/
   /*display: none;*/
   /*border: 1px solid;*/
 }
