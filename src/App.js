@@ -10,7 +10,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className="logo" > <img src="favicon.png" alt="logo" /> slanted news explorer</div>
+        <div className="logo" > <img src="favicon.png" alt="logo" /> Slanted news explorer <br/> TV News Archive closed captions </div>
         <div className="block" >
            {Object.keys(this.props).map( (key, index) => 
             <ul className="text-green" key={index} hidden= {this.props[key].color !== 'green'  } > 

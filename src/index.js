@@ -6,12 +6,12 @@ import registerServiceWorker from './registerServiceWorker';
 import * as firebase from 'firebase';
 
 //slantometer-tv
-// const config = {
-//     apiKey: "AIzaSyBymGzfKkczTNDe1p5IB5SdxmjK0A7wpqU",
-//     authDomain: "slantometer-tv.firebaseapp.com",
-//     databaseURL: "https://slantometer-tv.firebaseio.com",
-//     storageBucket: "slantometer-tv.appspot.com"
-//   };
+const config = {
+    apiKey: "AIzaSyBymGzfKkczTNDe1p5IB5SdxmjK0A7wpqU",
+    authDomain: "slantometer-tv.firebaseapp.com",
+    databaseURL: "https://slantometer-tv.firebaseio.com",
+    storageBucket: "slantometer-tv.appspot.com"
+  };
 
 
 // //slantometer new
@@ -22,16 +22,13 @@ import * as firebase from 'firebase';
 //     storageBucket: "testing-47738.appspot.com"
 //   };
 
-//slantometer clean
-const config = {
-    apiKey: "AIzaSyDg5NZaGE2vJNAg0uHwaLA9-6pq7fMdUFw",
-    authDomain: "slantometer-clean.firebaseapp.com",
-    databaseURL: "https://slantometer-clean.firebaseio.com/",
-    storageBucket: "slantometer-clean.appspot.com"
-  };
-
-
-
+// //slantometer clean
+// const config = {
+//     apiKey: "AIzaSyDg5NZaGE2vJNAg0uHwaLA9-6pq7fMdUFw",
+//     authDomain: "slantometer-clean.firebaseapp.com",
+//     databaseURL: "https://slantometer-clean.firebaseio.com/",
+//     storageBucket: "slantometer-clean.appspot.com"
+//   };
 
 
 

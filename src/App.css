@@ -10,7 +10,7 @@
   display: flex;
   /*border: 1px solid;*/
   height: 75vh;
-  top: 15vh;
+  top: 18vh;
   position: relative;
   overflow-y: hidden;
 }
@@ -32,10 +32,11 @@
   position: fixed;
   height: auto;
   top: 9vh;
-  left: 43.5vw;
+  left: 40vw;
   margin: 0 auto;
   font-weight: 500;
   font-size: 16px;
+  line-height: 1.5;
   /*display: none;*/
   /*border: 1px solid;*/
 }
