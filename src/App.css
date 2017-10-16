@@ -42,23 +42,22 @@
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
 
+.block > ul.text-green {
+  padding: 0 1vh;
+  margin-bottom: 5vh;
+  border-left: 4px solid #017C32;
+}
 
 .block > ul.text-yellow {
   padding: 0 1vh;
   margin-bottom: 5vh;
-  border-left: 4px solid rgba(174,152,173, 0.6);
-}
-
-.block > ul.text-green {
-  padding: 0 1vh;
-  margin-bottom: 5vh;
-  border-left: 4px solid rgba(134, 157, 187, 0.6);
+  border-left: 4px solid #FFEA26;
 }
 
 .block > ul.text-red {
   padding: 0 1vh;
   margin-bottom: 5vh;
-  border-left: 4px solid rgba(124, 89, 134, 0.6);
+  border-left: 4px solid #FFB289;
 }
 
 .block .url {
